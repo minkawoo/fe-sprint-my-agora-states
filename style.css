@@ -193,8 +193,8 @@ li a:hover {
   margin: 2rem;
   margin-right: 20rem;
   margin-top: 5.5rem;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55KVnSfOdu5LJ9FxDtLhL88VeE9YKw9R-iw&usqp=CAU');
-  /* background-image: url('s.png'); */
+/*   background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR55KVnSfOdu5LJ9FxDtLhL88VeE9YKw9R-iw&usqp=CAU'); */
+  background-image: url('s.png');
   background-position: center;
   background-size: contain;
   width: 170px;
