@@ -1,4 +1,4 @@
-## My Agora States
+## 🌐 My Agora States
 
 You can check out the main page  <b>[My Agora States](https://minkawoo.github.io/fe-sprint-my-agora-states/)<b>
 <br>
@@ -20,8 +20,9 @@ You can check out the main page  <b>[My Agora States](https://minkawoo.github.io
 
 Here are some GIFs demonstrating the main features of the project.
 
-![Viewing the List](./assets/feature1.gif)
-![Submitting a Question](./assets/feature2.gif)
+|Viewing the list|Submitting a Question|
+|:---:|:---:|
+|![image](https://github.com/MinEquals0/fe-sprint-my-agora-states/blob/main/image/list.gif?raw=true)|![image](https://github.com/MinEquals0/fe-sprint-my-agora-states/blob/main/image/submit.gif)|
 
 <br>
 <br>
